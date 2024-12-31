@@ -1,0 +1,34 @@
+.book-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .book-container h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .book-container p {
+    margin: 5px 0 0;
+    font-size: 0.9em;
+    color: #666;
+  }
+  
+  .delete-button {
+    background-color: #ff4d4f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .delete-button:hover {
+    background-color: #e04444;
+  }
+  

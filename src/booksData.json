@@ -1,0 +1,27 @@
+{
+    "A": [
+      {
+        "id": 1,
+        "title": "Pride and Prejudice",
+        "author": { "firstName": "Jane", "lastName": "Austen" },
+        "year": 1813
+      }
+    ],
+    "C": [
+      {
+        "id": 2,
+        "title": "The Alchemist",
+        "author": { "firstName": "Paulo", "lastName": "Coelho" },
+        "year": 1988
+      }
+    ],
+    "D": [
+      {
+        "id": 3,
+        "title": "Oliver Twist",
+        "author": { "firstName": "Charles", "lastName": "Dickens" },
+        "year": 1839
+      }
+    ]
+  }
+  

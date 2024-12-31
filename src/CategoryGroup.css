@@ -1,0 +1,19 @@
+.category-group {
+    border: 2px solid #333;
+    border-radius: 8px;
+    padding: 10px;
+    width: 300px;
+    background-color: #f9f9f9;
+  }
+  
+  .category-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .books-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
